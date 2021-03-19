@@ -1,6 +1,6 @@
 const urlsToCache = [
     "/",
-    // "/index.html",
+    "/index.html",
     "/index.js",
     "/db.js",
     "/manifest.json",
